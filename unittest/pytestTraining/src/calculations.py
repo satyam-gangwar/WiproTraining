@@ -24,3 +24,5 @@ class Calculations:
 
     def peri_rectangle(self, l, b):
         return 2 * (l + b)
+
+
