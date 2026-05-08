@@ -1,0 +1,198 @@
+2026-05-08 16:25:38,826 - INFO - ========================================
+2026-05-08 16:25:38,826 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:25:38,826 - INFO - Deleting old allure-results folder
+2026-05-08 16:25:38,827 - INFO - Starting Behave Test Execution
+2026-05-08 16:25:40,045 - INFO - Timeout fetched : 10
+2026-05-08 16:25:40,055 - INFO - Demoblaze URL loaded
+2026-05-08 16:25:40,056 - INFO - Step : Click Sign Up Menu
+2026-05-08 16:25:40,152 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:25:40,152 - INFO - Generating Allure HTML Report
+2026-05-08 16:25:40,173 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:25:40,173 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:25:40,173 - INFO - ========================================
+2026-05-08 16:29:32,483 - INFO - ========================================
+2026-05-08 16:29:32,483 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:29:32,483 - INFO - Deleting old allure-results folder
+2026-05-08 16:29:32,484 - INFO - Starting Behave Test Execution
+2026-05-08 16:29:32,935 - INFO - Timeout fetched : 10
+2026-05-08 16:29:32,944 - INFO - Demoblaze URL loaded
+2026-05-08 16:29:32,945 - INFO - Step : Click Sign Up Menu
+2026-05-08 16:29:33,034 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:29:33,034 - INFO - Generating Allure HTML Report
+2026-05-08 16:29:33,054 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:29:33,054 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:29:33,054 - INFO - ========================================
+2026-05-08 16:35:57,381 - INFO - ========================================
+2026-05-08 16:35:57,381 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:35:57,381 - INFO - Deleting old allure-results folder
+2026-05-08 16:35:57,382 - INFO - Starting Behave Test Execution
+2026-05-08 16:35:57,903 - INFO - Timeout fetched : 10
+2026-05-08 16:35:57,912 - INFO - Demoblaze URL loaded
+2026-05-08 16:35:57,913 - INFO - Step : Click Sign Up Menu
+2026-05-08 16:35:57,998 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:35:57,998 - INFO - Generating Allure HTML Report
+2026-05-08 16:35:58,015 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:35:58,016 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:35:58,016 - INFO - ========================================
+2026-05-08 16:38:33,230 - INFO - ========================================
+2026-05-08 16:38:33,231 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:38:33,231 - INFO - Deleting old allure-results folder
+2026-05-08 16:38:33,232 - INFO - Starting Behave Test Execution
+2026-05-08 16:38:33,702 - INFO - Timeout fetched : 10
+2026-05-08 16:38:33,710 - INFO - Demoblaze URL loaded
+2026-05-08 16:38:33,711 - INFO - Step : Click Sign up Menu
+2026-05-08 16:38:33,779 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:38:33,779 - INFO - Generating Allure HTML Report
+2026-05-08 16:38:33,796 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:38:33,796 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:38:33,796 - INFO - ========================================
+2026-05-08 16:41:47,023 - INFO - ========================================
+2026-05-08 16:41:47,024 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:41:47,024 - INFO - Deleting old allure-results folder
+2026-05-08 16:41:47,025 - INFO - Starting Behave Test Execution
+2026-05-08 16:41:47,511 - INFO - Timeout fetched : 10
+2026-05-08 16:41:47,520 - INFO - Demoblaze URL loaded
+2026-05-08 16:41:47,520 - INFO - Step : Click Sign Up Menu
+2026-05-08 16:41:47,595 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:41:47,595 - INFO - Generating Allure HTML Report
+2026-05-08 16:41:47,614 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:41:47,614 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:41:47,614 - INFO - ========================================
+2026-05-08 16:43:06,235 - INFO - ========================================
+2026-05-08 16:43:06,236 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:43:06,236 - INFO - Deleting old allure-results folder
+2026-05-08 16:43:06,236 - INFO - Starting Behave Test Execution
+2026-05-08 16:43:06,698 - INFO - Timeout fetched : 10
+2026-05-08 16:43:06,707 - INFO - Demoblaze URL loaded
+2026-05-08 16:43:06,707 - INFO - Step : Click Sign Up Menu
+2026-05-08 16:43:06,767 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:43:06,768 - INFO - Generating Allure HTML Report
+2026-05-08 16:43:06,785 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:43:06,786 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:43:06,786 - INFO - ========================================
+2026-05-08 16:48:47,286 - INFO - ========================================
+2026-05-08 16:48:47,286 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:48:47,286 - INFO - Deleting old allure-results folder
+2026-05-08 16:48:47,287 - INFO - Starting Behave Test Execution
+2026-05-08 16:48:47,563 - INFO - Behave Execution Completed with status code : 2
+2026-05-08 16:48:47,563 - INFO - Generating Allure HTML Report
+2026-05-08 16:48:47,587 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:48:47,587 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:48:47,587 - INFO - ========================================
+2026-05-08 16:59:43,062 - INFO - ========================================
+2026-05-08 16:59:43,062 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 16:59:43,062 - INFO - Starting Behave Test Execution
+2026-05-08 16:59:43,542 - INFO - Timeout fetched : 10
+2026-05-08 16:59:43,551 - INFO - Demoblaze URL loaded
+2026-05-08 16:59:43,552 - INFO - Step : Click Sign Up Menu
+2026-05-08 16:59:43,646 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 16:59:43,647 - INFO - Generating Allure HTML Report
+2026-05-08 16:59:43,667 - INFO - Allure Report Generated with status code : 1
+2026-05-08 16:59:43,668 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 16:59:43,668 - INFO - ========================================
+2026-05-08 17:02:21,264 - INFO - Timeout fetched : 10
+2026-05-08 17:02:21,273 - INFO - Demoblaze URL loaded
+2026-05-08 17:02:21,274 - INFO - Step : Click Sign Up Menu
+2026-05-08 17:04:35,692 - INFO - Timeout fetched : 10
+2026-05-08 17:04:35,700 - INFO - Demoblaze URL loaded
+2026-05-08 17:04:35,700 - INFO - Step : Click Sign Up Menu
+2026-05-08 17:04:49,861 - INFO - ========================================
+2026-05-08 17:04:49,861 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 17:04:49,861 - INFO - Deleting old allure-results folder
+2026-05-08 17:04:49,863 - INFO - Starting Behave Test Execution
+2026-05-08 17:04:50,323 - INFO - Timeout fetched : 10
+2026-05-08 17:04:50,332 - INFO - Demoblaze URL loaded
+2026-05-08 17:04:50,332 - INFO - Step : Click Sign Up Menu
+2026-05-08 17:04:50,388 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 17:04:50,388 - INFO - Generating Allure HTML Report
+2026-05-08 17:04:50,405 - INFO - Allure Report Generated with status code : 1
+2026-05-08 17:04:50,405 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 17:04:50,405 - INFO - ========================================
+2026-05-08 17:30:01,495 - INFO - ========================================
+2026-05-08 17:30:01,495 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 17:30:01,495 - INFO - Deleting old allure-results folder
+2026-05-08 17:30:01,496 - INFO - Starting Behave Test Execution
+2026-05-08 17:30:01,965 - INFO - Timeout fetched : 10
+2026-05-08 17:30:01,973 - INFO - ========================================
+2026-05-08 17:30:01,973 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 17:30:01,973 - INFO - Browser fetched : edge
+2026-05-08 17:30:01,973 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 17:30:01,973 - INFO - Implicit wait fetched : 5
+2026-05-08 17:30:01,973 - INFO - Headless mode : False
+2026-05-08 17:30:01,974 - INFO - Launching Edge Browser
+2026-05-08 17:30:06,611 - INFO - Browser Opened & Maximized Successfully
+2026-05-08 17:30:06,636 - INFO - Demoblaze URL loaded
+2026-05-08 17:30:06,643 - INFO - Step : Click Sign Up Menu
+2026-05-08 17:30:06,644 - INFO - Clicking Signup Menu
+2026-05-08 17:30:06,644 - INFO - Waiting for element clickable : ('link text', 'Sign up')
+2026-05-08 17:30:06,973 - INFO - Element clickable successfully : ('link text', 'Sign up')
+2026-05-08 17:30:07,092 - INFO - Step : Enter Username : useraasdcdcd
+2026-05-08 17:30:07,092 - INFO - Entering Username : useraasdcdcd
+2026-05-08 17:30:07,092 - INFO - Waiting for element visibility : ('id', 'sign-username')
+2026-05-08 17:30:07,695 - INFO - Element visible successfully : ('id', 'sign-username')
+2026-05-08 17:30:07,852 - INFO - Step : Enter Password : pwdavfdvbfdc
+2026-05-08 17:30:07,852 - INFO - Entering Password
+2026-05-08 17:30:07,852 - INFO - Waiting for element visibility : ('id', 'sign-password')
+2026-05-08 17:30:07,889 - INFO - Element visible successfully : ('id', 'sign-password')
+2026-05-08 17:30:08,025 - INFO - Step : Click Sign Up button 
+2026-05-08 17:30:08,025 - INFO - Clicking Sign up Button
+2026-05-08 17:30:08,025 - INFO - Waiting for element clickable : ('xpath', "//button[text()='Sign up']")
+2026-05-08 17:30:08,053 - INFO - Element clickable successfully : ('xpath', "//button[text()='Sign up']")
+2026-05-08 17:30:08,118 - INFO - Step : Verify Successful Sign Up Message
+2026-05-08 17:30:08,118 - INFO - Verifying SignUp Alert
+2026-05-08 17:30:08,118 - INFO - Waiting for alert
+2026-05-08 17:30:09,254 - INFO - Alert appeared successfully
+2026-05-08 17:30:09,364 - INFO - Alert Message : Sign up successful.
+2026-05-08 17:30:09,692 - INFO - Scenario Status : Status.error
+2026-05-08 17:30:09,692 - INFO - SCENARIO PASSED : Successful Signup
+2026-05-08 17:30:12,263 - INFO - Browser Closed Successfully
+2026-05-08 17:30:12,263 - INFO - ========================================
+2026-05-08 17:30:12,336 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 17:30:12,336 - INFO - Generating Allure HTML Report
+2026-05-08 17:30:12,357 - INFO - Allure Report Generated with status code : 1
+2026-05-08 17:30:12,357 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 17:30:12,358 - INFO - ========================================
+2026-05-08 17:52:55,686 - INFO - ========================================
+2026-05-08 17:52:55,687 - INFO - AUTOMATION EXECUTION STARTED
+2026-05-08 17:52:55,687 - INFO - Deleting old allure-results folder
+2026-05-08 17:52:55,688 - INFO - Starting Behave Test Execution
+2026-05-08 17:52:56,176 - INFO - Timeout fetched : 10
+2026-05-08 17:52:56,184 - INFO - ========================================
+2026-05-08 17:52:56,184 - INFO - STARTING SCENARIO : Successful Signup
+2026-05-08 17:52:56,184 - INFO - Browser fetched : edge
+2026-05-08 17:52:56,184 - INFO - Base URL fetched : https://www.demoblaze.com/
+2026-05-08 17:52:56,184 - INFO - Implicit wait fetched : 5
+2026-05-08 17:52:56,184 - INFO - Headless mode : False
+2026-05-08 17:52:56,184 - INFO - Launching Edge Browser
+2026-05-08 17:53:00,480 - INFO - Browser Opened & Maximized Successfully
+2026-05-08 17:53:00,481 - INFO - Demoblaze URL loaded
+2026-05-08 17:53:00,482 - INFO - Step : Click Sign Up Menu
+2026-05-08 17:53:00,483 - INFO - Clicking Signup Menu
+2026-05-08 17:53:00,483 - INFO - Waiting for element clickable : ('link text', 'Sign up')
+2026-05-08 17:53:00,567 - INFO - Element clickable successfully : ('link text', 'Sign up')
+2026-05-08 17:53:00,789 - INFO - Step : Enter Username : useraasdcdcd
+2026-05-08 17:53:00,789 - INFO - Entering Username : useraasdcdcd
+2026-05-08 17:53:00,789 - INFO - Waiting for element visibility : ('id', 'sign-username')
+2026-05-08 17:53:01,347 - INFO - Element visible successfully : ('id', 'sign-username')
+2026-05-08 17:53:01,463 - INFO - Step : Enter Password : pwdavfdvbfdc
+2026-05-08 17:53:01,463 - INFO - Entering Password
+2026-05-08 17:53:01,463 - INFO - Waiting for element visibility : ('id', 'sign-password')
+2026-05-08 17:53:01,494 - INFO - Element visible successfully : ('id', 'sign-password')
+2026-05-08 17:53:01,609 - INFO - Step : Click Sign Up button 
+2026-05-08 17:53:01,609 - INFO - Clicking Sign up Button
+2026-05-08 17:53:01,609 - INFO - Waiting for element clickable : ('xpath', "//button[text()='Sign up']")
+2026-05-08 17:53:01,639 - INFO - Element clickable successfully : ('xpath', "//button[text()='Sign up']")
+2026-05-08 17:53:01,699 - INFO - Step : Verify Successful Sign Up Message
+2026-05-08 17:53:01,699 - INFO - Verifying SignUp Alert
+2026-05-08 17:53:01,699 - INFO - Waiting for alert
+2026-05-08 17:53:03,270 - INFO - Alert appeared successfully
+2026-05-08 17:53:03,292 - INFO - Alert Message : This user already exist.
+2026-05-08 17:53:03,414 - INFO - Scenario Status : Status.error
+2026-05-08 17:53:03,414 - INFO - SCENARIO PASSED : Successful Signup
+2026-05-08 17:53:06,550 - INFO - Browser Closed Successfully
+2026-05-08 17:53:06,550 - INFO - ========================================
+2026-05-08 17:53:06,610 - INFO - Behave Execution Completed with status code : 1
+2026-05-08 17:53:06,610 - INFO - Generating Allure HTML Report
+2026-05-08 17:53:06,627 - INFO - Allure Report Generated with status code : 1
+2026-05-08 17:53:06,627 - INFO - AUTOMATION EXECUTION COMPLETED
+2026-05-08 17:53:06,628 - INFO - ========================================
